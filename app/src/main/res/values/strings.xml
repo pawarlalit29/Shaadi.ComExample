@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Shaadi.comExample</string>
+    <string name="profile_error">Profile List Error</string>
+    <string name="retry">Retry</string>
+</resources>

@@ -1,0 +1,32 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+
+    <!-- Text sizes -->
+    <dimen name="text_size_extra_micro_">4sp</dimen>
+    <dimen name="text_size_extra_micro_6">6sp</dimen>
+    <dimen name="text_size_extra_micro_8">8sp</dimen>
+    <dimen name="text_size_extra_micro">10sp</dimen>
+    <dimen name="text_size_micro">12sp</dimen>
+    <dimen name="text_size_small">14sp</dimen>
+    <dimen name="text_size_medium">16sp</dimen>
+    <dimen name="text_size_large">18sp</dimen>
+    <dimen name="text_size_large_">20sp</dimen>
+    <dimen name="text_size_extra_large">24sp</dimen>
+    <dimen name="text_icon_size_small">20sp</dimen>
+    <dimen name="text_icon_size_medium">30sp</dimen>
+    <dimen name="text_icon_size_medium_">28sp</dimen>
+    <dimen name="text_icon_size">36sp</dimen>
+    <dimen name="toolbar_text_size_large">16sp</dimen>
+    <dimen name="toolbar_text_size_small">14sp</dimen>
+
+
+    <dimen name="header_view_start_margin_left">16dp</dimen>
+    <dimen name="header_view_end_margin_left">40dp</dimen>
+    <dimen name="header_view_end_margin_right">14dp</dimen>
+    <dimen name="header_view_start_margin_bottom">14dp</dimen>
+    <dimen name="detail_toolbar_height">95dp</dimen>
+
+    <dimen name="notification_large_dim">256dp</dimen>
+
+</resources>
